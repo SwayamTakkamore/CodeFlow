@@ -252,7 +252,7 @@ At each execution step, the learner can see the relevant state:
 
 ``` text
 ┌─────────────────────────────────────┐
-│ C PROGRAM                            │
+│ C PROGRAM                           │
 │                                     │
 │ int x = 10;                         │
 │ int y = x + 5;                      │
