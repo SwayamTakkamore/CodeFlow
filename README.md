@@ -1,4 +1,4 @@
-# CodeFlow --- Adaptive Code Execution Learning Platform
+# CodeFlow - Adaptive Code Execution Learning Platform
 
 > **Learn to read code before you learn to write complex code.**
 >
